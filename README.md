@@ -1,4 +1,4 @@
-![Kali Linux Figlet](https://github.com/SanjeevStephan/Kali-Linux/blob/master/102-Kali-Linux-on-Window/figlet-images/figlet-kali-linux.jpg) <br/>
+![Kali Linux Figlet](https://github.com/SanjeevStephan/Figlets/blob/master/images/figlet-kali-linux.jpg) <br/>
 This repository contains files such as Script | Tools | Worldlist | Settings and Much More which can later be used to restore the Linux System.If and when needed. 
 
 ![Linux File System](https://lcom.static.linuxfound.org/sites/lcom/files/standard-unix-filesystem-hierarchy.png)
